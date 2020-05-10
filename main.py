@@ -1,11 +1,6 @@
-print('This is master branch!')
+print('This is dev branch!')
 
-print('hi takewill!')
+print("Hello Takewill!")
 
-print("Hi Man!")
+print('dev')
 
-print('4')
-
-print('5')
-
-print('6')
