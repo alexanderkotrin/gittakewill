@@ -1,18 +1,7 @@
-print('This is dev branch!')
-
 print("Hello Takewill!")
-
-print('dev')
-print("this is new test")
-print('nu pot')
-print('This is master branch!')
-
-print('hi takewill!')
-
-print("Hi Man!")
-
+print('1')
+print('2')
+print('3')
 print('4')
-
 print('5')
-
-print('12344578990')
+print('12345')
